@@ -6,7 +6,7 @@ Maktabaty is an Android application for the digital version of the schools books
 ## Installation
 ### Android Studio :
 Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains IntelliJ IDEA software and designed specifically for Android development.
-#### Installing Android Studio on Windows
+#### <ins>Installing Android Studio on Windows</ins>
 <h4><i>Requirements</i></h4>
 Before installing Android Studio on Windows, make sure you have the following requirements:
 
@@ -25,7 +25,7 @@ Before installing Android Studio on Windows, make sure you have the following re
 6.  Configure Android Studio by choosing a theme and setting up a virtual device.
 7.  Create a new project by selecting "Start a new Android Studio project" from the welcome screen.
 8.  Follow the on-screen instructions to create a new project.
-#### Installing Android Studio on Ubuntu
+#### <ins>Installing Android Studio on Ubuntu</ins>
 <h4><i>Requirements</i></h4>
 Before installing Android Studio on Ubuntu, make sure you have the following requirements:
 
